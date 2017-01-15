@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[My four Article]]></title>
+      <url>http://yoursite.com/2017/01/15/My-four-Article/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[My three Article]]></title>
       <url>http://yoursite.com/2017/01/15/My-three-Article/</url>
       <content type="html"></content>
